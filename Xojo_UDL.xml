@@ -1,0 +1,47 @@
+<NotepadPlus>
+    <UserLang name="Xojo" ext="xojo" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="yes" forcePureLC="1" decimalSeparator="0" />
+            <TreatAsSymbol commentLine="yes" commentBlock="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="instre1">Function Sub End If Then Else Dim Return</Keywords>
+            <Keywords name="instre2">Integer String Double Boolean</Keywords>
+            <Keywords name="instre3" />
+            <Keywords name="instre4" />
+            <Keywords name="instre5" />
+            <Keywords name="instre6" />
+            <Keywords name="instre7" />
+            <Keywords name="instre8" />
+            <Keywords name="folder+">Function Sub</Keywords>
+            <Keywords name="folder-">End</Keywords>
+            <Keywords name="oper1">+ - * / = &lt; &gt; &lt;&gt;</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="Courier New" fontStyle="2" />
+            <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="Courier New" fontStyle="2" />
+            <WordsStyle name="NUMBERS" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF8000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS3" fgColor="800000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS4" fgColor="800080" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS5" fgColor="808000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="OPERATORS" fgColor="0000FF" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="808080" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="808080" bgColor="FFFFFF" fontName="Courier New" fontStyle="1" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="Courier New" fontStyle="0" />
+            <WordsStyle name="MULTI-LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="Courier New" fontStyle="2" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
